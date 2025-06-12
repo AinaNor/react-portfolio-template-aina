@@ -30,7 +30,9 @@
 .svg-inline--fa {
     color: white;
 }
-
+.vertical-timeline-element-icon.bounce-in {
+background-color: #000 !important;
+}
 @media screen and (max-width: 1170px) {
     .vertical-timeline-element .vertical-timeline-element-date {
         color: rgb(39, 40, 34);

@@ -16,26 +16,14 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="2021 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Front End Developer/Consultant</h3>
+            <h4 className="vertical-timeline-element-subtitle">The Access Group</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2020 - 2022"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
-            <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Consulted clients to understand business goals and turn into actionable solution designs
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -44,10 +32,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Front End Developer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Access Volcanic</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Frontend Development, support clients migration process into latest stack, overseeing almost 100++ clients' websites
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -56,10 +44,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Web Developer Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">Jimat Solution Plt</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Wordpress development, asiisted with designing and mainting client websites
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
