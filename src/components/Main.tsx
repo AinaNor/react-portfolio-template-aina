@@ -19,7 +19,7 @@ function Main() {
           <p>Your next door developer..</p>
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/AinaNor" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            {/* <a href="https://github.com/AinaNor" target="_blank" rel="noreferrer"><GitHubIcon/></a> */}
             <a href="https://www.linkedin.com/in/aina-nor/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
         </div>
